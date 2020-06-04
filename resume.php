@@ -23,7 +23,7 @@
         
        <header class="shadow-sm">
            <article>
-               <a href="index.php" class="text-center ">
+               <a href="index.html" class="text-center ">
                     <i class="fas fa-home"></i><span><b>HOME</b></span>
                </a>
 
