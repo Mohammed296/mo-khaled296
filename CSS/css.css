@@ -1,0 +1,161 @@
+* {
+    padding: 0px;margin:0px;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+body{
+ 
+    font-family: arial;
+    background: #f5f5f5; 
+}
+
+.main {
+        margin-bottom: 150px;
+}
+
+aside > div {
+    background: #fff;
+    border-radius: 10px;
+    margin: 30px 0;
+    padding: 20px;
+}
+
+aside div > div {
+    margin-bottom: 20px;
+
+}
+aside div img {
+    margin-bottom: 20px;
+    z-index: 10
+}
+aside .m-title {
+    font-size: 20px;
+}
+
+.main > div {
+    background: #fff;
+    border-radius: 10px;
+    margin: 30px 0;
+    padding: 20px;
+}
+
+
+.main .m-title {
+    font-size: 20px;
+}
+.main .describe {
+    font-size: 17px;
+    line-height: 30px;
+    
+}
+
+
+.progress-bar {
+    background: #1c76c3;
+}
+
+.main .tit {
+    background: #1c76c3 ;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;  
+}
+.main .tit:hover {
+    background: #777;
+    cursor: grab;
+}
+
+#scroll-up {
+    position: fixed;
+    background: #1c76c3;
+    right: 30px;
+    bottom: 30px;
+    padding: 1px 6px;
+    color: #fff;
+    border-radius: 5px;
+    display: none;
+    z-index: 10;
+}
+#scroll-up:hover {
+    background: #777;
+    cursor: pointer;
+}
+
+#social-media a {
+    position: relative;
+    text-decoration: none;
+}
+#social-media a i {
+    margin: 15px 0;
+}
+
+
+#social-media1 a {
+    position: relative;
+    text-decoration: none;
+}
+
+#social-media1 a i {
+    margin: 15px 2px;
+}
+
+
+table tr td {
+    height: 40px;
+}
+
+form input,
+form, textarea {
+    margin-bottom: 15px;
+}
+.form-control {background: #f9f9f9}
+
+.sss {
+    background: rgba(0);
+    color: #1c76c3;
+    padding: 20px;
+    border-radius: 50%;
+    border: 2px solid #212529;
+    margin: auto auto;
+    line-height: 40px;
+    
+}
+
+.sss i {transition: transform .4s ease-in-out;}
+.sss:hover i {
+    transform: scale(1.2);
+    cursor: grab;
+}
+
+.sssh {
+    background: #1c76c3;
+    color: #fff;
+    padding: 20px;
+    border-radius: 50%;
+    margin: auto auto;
+    line-height: 40px;
+    transition: transform .4s ease-in-out;
+}
+
+.sssh:hover {
+    background: #777;
+    transform: scale(1.2); 
+    cursor: grab;
+
+}
+
+.content-form .msg-conn {
+    padding: 5px 10px;
+    display: none;
+}
+
+
+footer {
+    background: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 25px;
+}
+
+
